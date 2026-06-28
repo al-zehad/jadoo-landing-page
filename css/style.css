@@ -1,0 +1,28 @@
+/* COMMON CSS STARTS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  /* font-family: "Google Sans", sans-serif; */
+  /* font-family: "Volkhov", serif; */
+  /* font-family: "Open Sans", sans-serif; */
+}
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+  line-height: 0.8;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  color: #181818;
+  text-decoration: none;
+}
+button {
+  background: none;
+  border: none;
+}
+
